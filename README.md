@@ -40,20 +40,21 @@ Follow these instructions to set up and run the project on your local machine.
 
    `git clone https://github.com/Ravi191203/Portfolio.git`
 
-3. **Navigate to the project directory and in Terminal paste this:**
+3. **Navigate to the project directory and in Terminal paste this:** <br>
+
     `cd Portfolio`
 
-4. **Install the dependencies:**
+4. **Install the dependencies:** <br>
 
     `npm install`
 
 
 ## 🚀 Running the Project
 
-1. Start the development server:
+1. Start the development server:<br>
 
 
-  `npm start`
+  `npm start`<br>
   Open [http://localhost:3000](http://localhost:3000) in your browser to see the website.
 
 
@@ -65,7 +66,6 @@ This will create an optimized build of the app in the build folder.
 
 ## 📧 Contact
 LinkedIn: [Ravi Raghavendra G S](https://www.linkedin.com/in/ravi-raghavendra-g-s-8188452a9/)
-Instagram: @rrgs003
 
 ## 🤝 Contributing
 Feel free to fork this repository, create a branch, and submit a pull request with any improvements or suggestions.
