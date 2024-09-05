@@ -53,21 +53,20 @@ Follow these instructions to set up and run the project on your local machine.
 
 1. Start the development server:<br>
 
-
-  `npm start`<br>
-  Open [http://localhost:3000](http://localhost:3000) in your browser to see the website.
+      `npm start` <br>
+           Open [http://localhost:3000](http://localhost:3000) in your browser to see the website.
 
 
 ## 📦 Building the Project
-To build the project for production, run:
+   To build the project for production, run:
 
-  `npm run build`
-This will create an optimized build of the app in the build folder.
+   `npm run build`
+   This will create an optimized build of the app in the build folder.
 
 ## 📧 Contact
-LinkedIn: [Ravi Raghavendra G S](https://www.linkedin.com/in/ravi-raghavendra-g-s-8188452a9/)
+   LinkedIn: [Ravi Raghavendra G S](https://www.linkedin.com/in/ravi-raghavendra-g-s-8188452a9/)
 
 ## 🤝 Contributing
-Feel free to fork this repository, create a branch, and submit a pull request with any improvements or suggestions.
+   Feel free to fork this repository, create a branch, and submit a pull request with any improvements or suggestions.
 
-Thank you for visiting my portfolio! 😊
+   Thank you for visiting my portfolio! 😊
