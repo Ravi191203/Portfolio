@@ -38,14 +38,12 @@ Follow these instructions to set up and run the project on your local machine.
 
    Open your terminal and run the following command:
 
-   ```
-   git clone https://github.com/Ravi191203/Portfolio.git
-    cd Portfolio
+   `git clone https://github.com/Ravi191203/Portfolio.git`
 
-2. **Navigate to the project directory:**
+3. **Navigate to the project directory and in Terminal paste this:**
     `cd Portfolio`
 
-3. **Install the dependencies:**
+4. **Install the dependencies:**
 
     `npm install`
 
