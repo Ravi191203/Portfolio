@@ -36,11 +36,9 @@ Follow these instructions to set up and run the project on your local machine.
 
 1. **Clone the repository:**
 
-   Open your terminal and run the following command:
+   - Open your terminal and run the following command:
 
-   ```
-   git clone https://github.com/Ravi191203/Portfolio.git
-    cd Portfolio
+   `git clone https://github.com/Ravi191203/Portfolio.git`
 
 2. **Navigate to the project directory:**
     `cd Portfolio`
@@ -60,7 +58,7 @@ Follow these instructions to set up and run the project on your local machine.
 
 
 ## 📦 Building the Project
-To build the project for production, run:
+- To build the project for production, run:
 
   `npm run build`
 This will create an optimized build of the app in the build folder.
