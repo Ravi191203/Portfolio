@@ -21,7 +21,7 @@ Check out the live version of my portfolio [here](https://rrgs-portfolio.vercel.
 
 ## 📸 Screenshots
 
-![Portfolio Screenshot](https://github.com/Ravi191203/Portfolio/blob/main/path-to-your-screenshot.png) <!-- Update this path with your screenshot URL -->
+![Portfolio Screenshot](https://github.com/Ravi191203/Portfolio/blob/master/Screenshot_20240906-104006%20(1).png) <!-- Update this path with your screenshot URL -->
 
 ## 📂 Getting Started
 
