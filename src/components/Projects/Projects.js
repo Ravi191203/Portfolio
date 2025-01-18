@@ -33,7 +33,7 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={bitsOfCode}
-              isBlog={True}
+              isBlog={false}
               title="RRGS Tech Showcase"
               description="Explore my personal site, where I showcase my journey in computer science and web development. Dive into my projects, technical skills, and professional experiences, all curated to reflect my passion for technology and continuous learning."
               ghLink="https://sites.google.com/view/rrgscsstudent/home/"
@@ -51,7 +51,7 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={js}
-              isBlog={True}
+              isBlog={false}
               title="100Days Of JavaScript Challenge"
               description="100Days Of JavaScript Challenge From Basic to Advance"
               ghLink="https://100-days-100-js-projects-challenge.pages.dev/"
