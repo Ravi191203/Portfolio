@@ -5,7 +5,7 @@ import Particle from "../Particle";
 import portfolio from "../../Assets/Projects/portfolio.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
 import DSMS from "../../Assets/Projects/DSMS.png";
-import js from "../../Assets/Projects/js.png";
+import js from "../../Assets/Projects/100js.jpeg";
 
 function Projects() {
   return (
